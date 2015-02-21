@@ -1,0 +1,8 @@
+C:\Users\Marco_\Documents\Visual Studio 2013\Projects\Utility\Utility\bin\Release\Utility.exe.config
+C:\Users\Marco_\Documents\Visual Studio 2013\Projects\Utility\Utility\bin\Release\Utility.exe
+C:\Users\Marco_\Documents\Visual Studio 2013\Projects\Utility\Utility\bin\Release\Utility.pdb
+C:\Users\Marco_\Documents\Visual Studio 2013\Projects\Utility\Utility\obj\Release\Utility.Form1.resources
+C:\Users\Marco_\Documents\Visual Studio 2013\Projects\Utility\Utility\obj\Release\Utility.Properties.Resources.resources
+C:\Users\Marco_\Documents\Visual Studio 2013\Projects\Utility\Utility\obj\Release\Utility.csproj.GenerateResource.Cache
+C:\Users\Marco_\Documents\Visual Studio 2013\Projects\Utility\Utility\obj\Release\Utility.exe
+C:\Users\Marco_\Documents\Visual Studio 2013\Projects\Utility\Utility\obj\Release\Utility.pdb

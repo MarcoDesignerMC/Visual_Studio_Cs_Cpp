@@ -1,0 +1,9 @@
+c:\users\marco_\documents\visual studio 2013\Projects\Utility\Utility\bin\Debug\Utility.exe.config
+c:\users\marco_\documents\visual studio 2013\Projects\Utility\Utility\bin\Debug\Utility.exe
+c:\users\marco_\documents\visual studio 2013\Projects\Utility\Utility\bin\Debug\Utility.pdb
+c:\users\marco_\documents\visual studio 2013\Projects\Utility\Utility\obj\Debug\Utility.Form1.resources
+c:\users\marco_\documents\visual studio 2013\Projects\Utility\Utility\obj\Debug\Utility.Properties.Resources.resources
+c:\users\marco_\documents\visual studio 2013\Projects\Utility\Utility\obj\Debug\Utility.csproj.GenerateResource.Cache
+c:\users\marco_\documents\visual studio 2013\Projects\Utility\Utility\obj\Debug\Utility.exe
+c:\users\marco_\documents\visual studio 2013\Projects\Utility\Utility\obj\Debug\Utility.pdb
+c:\users\marco_\documents\visual studio 2013\Projects\Utility\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache
